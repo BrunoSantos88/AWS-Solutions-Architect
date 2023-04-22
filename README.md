@@ -9,7 +9,7 @@ Link: https://www.udemy.com/share/105UQK3@ViYcXu6CABmy8HIstwH3qwC-k-pdRKsMVomZ7y
 
 Prova cloud 
 
-Prova Arquiteto Skillbuider 80% necessario para passar.
-Link: https://explore.skillbuilder.aws/offline/index.html
--Procurar badge AWS Learning: Architecting
--Procurar badge AWS Learning: Cloud Essentials
+Prova Arquiteto Skillbuider 80% necessario para passar. </p>
+Link: https://explore.skillbuilder.aws/offline/index.html </p>
+-Procurar badge AWS Learning: Architecting </p> 
+-Procurar badge AWS Learning: Cloud Essentials </p>
