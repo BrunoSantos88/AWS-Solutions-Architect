@@ -11,5 +11,5 @@ Prova cloud
 
 Prova Arquiteto Skillbuider 80% necessario para passar. </p>
 Link: https://explore.skillbuilder.aws/offline/index.html </p>
--Procurar badge AWS Learning: Architecting </p> 
--Procurar badge AWS Learning: Cloud Essentials </p>
+-Procurar badge AWS Learning: Architecting 80% necessario passar </p> 
+-Procurar badge AWS Learning: Cloud Essentials 80% necessario passar </p>
