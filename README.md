@@ -36,7 +36,7 @@ O sistema de estabilização da ilha está a falhar e necessita de maior fiabili
 Descrever regiões e zonas de disponibilidade da AWS. 
 Implante instâncias do Amazon EC2 em várias zonas de disponibilidade.  
 
-# Fundações sem servidor </p>
+# Fundammentos Sem Servidor </p>
 
 Ajude o Departamento de TI do Parque de Diversões a executar código sem provisionar um servidor.	Descrever os princípios da computação sem servidor
 Descrever o AWS Lambda e detalhar seus usos e benefícios
