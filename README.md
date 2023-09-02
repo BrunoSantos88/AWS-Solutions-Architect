@@ -14,9 +14,13 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 -Procurar badge AWS Learning: Architecting 80% necessario passar </p> 
 -Procurar badge AWS Learning: Cloud Essentials 80% necessario passar </p>
 
-# Cloud Quest Labs Badges
-- Cloud Quest Partitione 
-- Cloud Quest Archtectiing solution
+## 🏅 Certificates 
+AWS Cloud Quest is a fun and engaging way to learn AWS Cloud skills, and this repository will help you master the Solutions Architect role. We hope you enjoy playing the game and using this repository, and we welcome your feedback and contributions.
+
+<p align="middle">
+  <a href="https://www.credly.com/badges/8c590962-04a7-4a04-9777-a513bf617788/public_url"><img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
+  <a href=" https://www.credly.com/badges/93259c26-48db-4df0-8cd3-21dab587f1a0/public_url"><img src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" ></a>
+</p>
 
 # Fundamentos de computação em nuvem	 </p>
 
