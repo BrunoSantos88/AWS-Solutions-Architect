@@ -68,6 +68,10 @@ Descreva os benefícios de usar Amazon VPCs.
 Declare os fundamentos da notação de bloco CIDR e do endereçamento IP.
 Explique como o tráfego da VPC é roteado e protegido usando gateways, listas de controle de acesso à rede e grupos de segurança.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91704169/265232330-41c58c32-4faa-43ec-a8d3-2f69cdb942bf.png" alt="" style="display: block; margin: auto;" />
+</p>
+
 # DNS </p>
 
 O jornal local gostaria que seu servidor interno de notícias fosse acessado através de um nome de domínio em vez de um endereço IP.	Crie nomes de domínio hospedados locais para seus servidores Amazon VPC usando o Route 53.
