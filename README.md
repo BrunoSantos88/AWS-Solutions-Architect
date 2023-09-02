@@ -20,101 +20,101 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 
 # LABS 
 
-- Fundamentos de computação em nuvem	 </p>
+- Fundamentos de computação em nuvem	
 O portal da cidade precisa migrar a página de previsão do tamanho das ondas da praia para a AWS para melhorar a confiabilidade.	Articular as características da plataforma de computação em nuvem AWS. </p>
 Descreva os principais benefícios do uso de produtos e serviços da AWS.
 Compare e compare os serviços de nuvem AWS com a infraestrutura local.  
 Implemente a hospedagem de uma página da web estática usando o Amazon S3.  
 
-- Primeiros passos na nuvem	  </p>
+- Primeiros passos na nuvem	
 O sistema de estabilização da ilha está a falhar e necessita de maior fiabilidade e disponibilidade para os seus módulos computacionais.	Resuma os benefícios da infraestrutura AWS. 
 Descrever regiões e zonas de disponibilidade da AWS. 
 Implante instâncias do Amazon EC2 em várias zonas de disponibilidade.  
 
-- Fundações sem servidor	  </p>
+- Fundações sem servidor
 Ajude o Departamento de TI do Parque de Diversões a executar código sem provisionar um servidor.	Descrever os princípios da computação sem servidor
 Descrever o AWS Lambda e detalhar seus usos e benefícios
 Criar e implantar uma função do AWS Lambda
 
-- Soluções de computação </p>
+- Soluções de computação
 O servidor escolar que executa a solução de agendamento precisa de mais memória. Auxiliar no dimensionamento vertical da instância do Amazon EC2.	Descrever famílias de instâncias e tipos de instâncias do Amazon EC2.
 Descreva a escala horizontal e vertical.
 Reconheça opções de conexão com instâncias do Amazon EC2.
 
-- Implantando APIs RESTful	</p>
+- Implantando APIs RESTful
 Ajude a equipe de TI do parque de diversões a criar APIs para o aplicativo de compartilhamento de viagens.	Criar e implantar uma API REST que se integre ao AWS Lambda
 Explicar o link entre o Amazon API Gateway e o AWS Lambda
 Descrever como o API Gateway utiliza APIs REST
 Descrever os usos e benefícios do API Gateway
 Compreender os principais conceitos de microsserviços
 
-- Conceitos de rede	 </p>
+- Conceitos de rede	
 Ajude o banco a configurar um ambiente de rede seguro que permita a comunicação entre os recursos e a Internet.	Defina os principais recursos de VPCs, sub-redes, gateways de Internet e tabelas de rotas.
 Descreva os benefícios de usar Amazon VPCs.
 Declare os fundamentos da notação de bloco CIDR e do endereçamento IP.
 Explique como o tráfego da VPC é roteado e protegido usando gateways, listas de controle de acesso à rede e grupos de segurança.
 
-- DNS </p>
+- DNS 
 O jornal local gostaria que seu servidor interno de notícias fosse acessado através de um nome de domínio em vez de um endereço IP.	Crie nomes de domínio hospedados locais para seus servidores Amazon VPC usando o Route 53.
 Anexe registros A ao seu nome de domínio local.
 Anexe um registro CNAME ao seu nome de domínio local.
 
-- Bancos de dados na prática	 </p>
+- Bancos de dados na prática
 Melhore as operações, o desempenho e a disponibilidade do banco de dados relacional da seguradora.	Revise os recursos, benefícios e tipos de banco de dados disponíveis no Amazon RDS.
 Descrever a escalabilidade vertical e horizontal no Amazon RDS.
 Use réplicas de leitura do Amazon RDS para aumentar o desempenho do banco de dados.
 Implemente implantações multi-AZ do Amazon RDS para aumentar a disponibilidade.
 
-- API com banco de dados	</p>
+- API com banco de dados
 Ajude a equipe de TI do Amusement Park a adicionar um armazenamento de dados NoSQL à sua solução.	Descrever os recursos e benefícios do Amazon DynamoDB
 Resumir os principais componentes de uma tabela do DynamoDB
 Criar uma tabela no Amazon DynamoDB
 Entender como criar, atualizar e recuperar itens do DynamoDB
 
-- Conceitos Básicos de Segurança </p>
+- Conceitos Básicos de Segurança
 Ajude a melhorar a segurança na bolsa de valores da cidade, garantindo que os engenheiros de suporte só possam realizar ações autorizadas.	Descreva o processo de criação e as diferenças entre usuários, funções e grupos do AWS IAM.
 Revise a estrutura e os componentes das políticas do AWS IAM.
 Resuma o modelo de responsabilidade compartilhada da AWS e os programas de conformidade.
 
-- Redes de distribuição de conteúdo	  </p>
+- Redes de distribuição de conteúdo	 
 Entenda o valor da rede de entrega de conteúdo do Amazon CloudFront
 Configure o Amazon CloudFront para instância do Amazon EC2
 Configure o Amazon CloudFront para site estático do Amazon S3
 
-- Métodos de ingestão de dados	 </p>
+- Métodos de ingestão de dados
 Ajude a empresa de entrega de pacotes a acelerar a ingestão e transformação de dados.	Crie um fluxo de entrega do Amazon Kinesis Data Firehose
 Crie uma aplicação Amazon Kinesis Data Analytics
 Configure o pré-processamento de dados usando o AWS Lambda
 Configure análises de dados em tempo real em sua aplicação
 Envie análises em tempo real para uma tabela do Amazon DynamoDB
 
-- Conectando VPCs	 </p>
+- Conectando VPCs
 A equipe de marketing da cidade deseja Amazon VPCs separadas para cada departamento que permita a comunicação entre Amazon VPCs.	Resuma como o peering de VPC funciona com o Amazon VPC.
 Explique as etapas para estabelecer uma conexão de peering de VPC.
 Crie uma conexão de peering entre duas Amazon VPCs.
 Estabeleça uma conexão de peering entre Amazon VPCs usando uma sub-rede específica.
 
 
-- Primeiro banco de dados NoSQL	 </p>
+- Primeiro banco de dados NoSQL	
 Ajude o serviço de streaming de entretenimento da ilha a implementar um banco de dados NoSQL para desenvolver novos recursos.	Resuma os diferentes usos de bancos de dados comuns criados para fins específicos.
 Descrever os recursos e benefícios do Amazon DynamoDB.
 Interaja com os elementos e atributos de um banco de dados Amazon DynamoDB.
 Configure um banco de dados NoSQL com Amazon DynamoDB.
 
-- Sistemas de arquivos na nuvem </p>
+- Sistemas de arquivos na nuvem
 Ajude a agência de modelos de animais de estimação da cidade a compartilhar dados de arquivos sem provisionar ou gerenciar armazenamento.	Resuma as diferentes opções de armazenamento disponíveis na AWS.
 Resuma os principais recursos e benefícios do Amazon EFS.
 Identifique casos de uso de negócios para o Amazon EFS.
 Configure endpoints do Amazon EFS para acessar o armazenamento centralizado.
 
-- Serviços de contêiner </p>
+- Serviços de contêiner
 Ajude o principal centro de pesquisa médica da cidade a conteinerizar e implantar seus aplicativos na nuvem.	Identifique ofertas de contêineres da AWS.
 Demonstre como implantar um aplicativo usando o Amazon ECS.
 Determine como criar uma imagem Docker para um aplicativo.
 Demonstre como implantar um segundo aplicativo usando o AWS Fargate.
 Determine como criar um repositório do Amazon ECR e envie uma imagem para ele.
 
-- Fazendo backup de dados	 </p>
+- Fazendo backup de dados
 Ajude a empresa Pup-World a criar planos de backup para diferentes aplicações.	Entenda o objetivo do tempo de recuperação versus o objetivo do ponto de recuperação.
 Entenda como o AWS Backup facilita o backup de armazenamento.
 Crie planos de backup para instâncias EC2, armazenamento EBS e bancos de dados.
@@ -124,43 +124,43 @@ Ajude o café de jogos da cidade a implementar servidores de recuperação autom
 Crie um grupo do Auto Scaling com limites de recursos rígidos.
 Configure um grupo do Auto Scaling para responder a um evento baseado em tempo.
 
-- Aplicativo de página única </p>
+- Aplicativo de página única
 Ajude o Parque de Diversões a solucionar problemas, corrigir e reimplantar seu aplicativo.	Use o Amazon CloudWatch Logs para solucionar problemas de funções do AWS Lambda
 Entenda os erros comuns ao configurar APIs do Amazon API Gateway
 Entenda as mensagens de acesso negado dos logs de funções do AWS Lambda
 Crie um aplicativo de página única usando Amazon S3, Amazon API Gateway, AWS Lambda e Amazon DynamoDB
  
-- Aplicativos da Web altamente disponíveis </p>
+- Aplicativos da Web altamente disponíveis
 Ajude a agência de viagens a criar uma arquitetura de aplicação web altamente disponível.	Descrever os princípios para arquitetar aplicativos altamente disponíveis.
 Resuma os benefícios de usar um AWS Application Load Balancer (ALB).
 Use grupos do Auto Scaling com balanceamento de carga e monitoramento de integridade.
 
-- Automação com CloudFormation </p>
+- Automação com CloudFormation
 Ajude-nos a reduzir erros humanos e padronizar nossa infraestrutura de implantação de pesquisa robótica.	Use o CloudFormation para automatizar a criação de ambientes.
 Leia e escreva pilhas básicas do CloudFormation em YAML.
 Execute a automação para criar ambientes diferentes.
 
-- Desacoplando aplicativos	 </p>
+- Desacoplando aplicativos
 Auxiliar as operações espaciais na dissociação de aplicativos de imagens de satélite usando microsserviços e filas de mensagens.	Criar um tópico do Amazon Simple Notification Service (Amazon SNS)
 Criar uma fila do Amazon Simple Queue Service (Amazon SQS)
 Desacoplar um aplicativo usando o Amazon SNS e o Amazon SQS
 Gerar mensagens distribuídas de um tópico do Amazon SNS para várias filas do Amazon SQS
 
-- Analisando o tráfego de rede </p>
+- Analisando o tráfego de rede
 Ajude a Intelligent Crops a analisar seus registros de rede para encontrar possíveis falhas de segurança.	Monitore o tráfego de VPC usando registros de fluxo de VPC
 Compreenda os princípios básicos de uma lista de controle de acesso (ACL) de rede
 Aceite/rejeite o tráfego de rede usando ACLs de rede
 
-- Economia da Nuvem </p>
+- Economia da Nuvem
 A loja de pranchas de surf da cidade precisa de uma estimativa de custo de uma arquitetura com utilização variável de recursos.	Descrever como as estimativas de preços são obtidas.
 Use a Calculadora de preços da AWS para estimar o preço de uma arquitetura da AWS.
 
-- Monitoramento de recursos	 </p>
+- Monitoramento de recursos
 Ajude a equipe da Island Power Plant a monitorar seus sistemas e automatizar notificações e ações com base nas métricas coletadas.	Monitore os recursos da AWS usando métricas do Amazon CloudWatch.
 Configure o painel do Amazon CloudWatch.
 Configure alarmes e ações do Amazon CloudWatch.
 
-- Governança de Recursos </p>
+- Governança de Recursos
 Ajude o Innovations Lab a manter padrões consistentes para todos os recursos lançados!	Entenda como o AWS Config pode permitir a governança de recursos.
 Crie regras do AWS Config para marcar recursos.
 Crie regras do AWS Config para versionamento e criptografia do S3.
