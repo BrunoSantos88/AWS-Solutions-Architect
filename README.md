@@ -1,24 +1,11 @@
-# AWS Cloud Quest: Solutions Architect 
-
-[![GitHub Issues](https://img.shields.io/github/issues/DanieleBocchino/AWS-Solutions-Architect-Quest
-)](https://github.com/DanieleBocchino/AWS-Solutions-Architect-Quest
-)
-[![GitHub Stars](https://img.shields.io/github/stars/DanieleBocchino/AWS-Solutions-Architect-Quest
-)](https://github.com/DanieleBocchino/AWS-Solutions-Architect-Quest
-)
-[![GitHub Forks](https://img.shields.io/github/forks/DanieleBocchino/AWS-Solutions-Architect-Quest
-)](https://github.com/DanieleBocchino/AWS-Solutions-Architect-Quest
-)
-[![GitHub Contributors](https://img.shields.io/github/contributors/DanieleBocchino/AWS-Solutions-Architect-Quest
-)](https://github.com/DanieleBocchino/AWS-Solutions-Architect-Quest
-)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/DanieleBocchino/AWS-Solutions-Architect-Quest
-)](https://github.com/DanieleBocchino/AWS-Solutions-Architect-Quest
-)
-
+<p align="center">
+  <img src="utils/img/aws.png" alt="" style="display: block; margin: auto;" />
+</p>
 
 # AWS-Solutions-Architect
 Guia e simulados -- Rocket Partner e Udemy e Skillbuider
+
+
 
 Simulado benchprep.com 20 perguntas.
 Link: https://awscertificationpractice.benchprep.com/app/aws-certified-solutions-architect-associate-official-practice-question-set-saa-c03#exams/details/165791
