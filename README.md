@@ -15,7 +15,8 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 -Procurar badge AWS Learning: Cloud Essentials 80% necessario passar </p>
 
 ## 🏅 Certificates 
-AWS Cloud Quest is a fun and engaging way to learn AWS Cloud skills, and this repository will help you master the Solutions Architect role. We hope you enjoy playing the game and using this repository, and we welcome your feedback and contributions.
+- AWS Cloud Quest Certificações badge de gameficação da AWS
+- Lista dos Labs
 
 <p align="middle">
   <a href="https://www.credly.com/badges/8c590962-04a7-4a04-9777-a513bf617788/public_url"><img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
