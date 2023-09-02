@@ -133,7 +133,7 @@ Demonstre como implantar um segundo aplicativo usando o AWS Fargate.
 Determine como criar um repositório do Amazon ECR e envie uma imagem para ele.
 
 <p align="center">
-  <img src="utils/img/aws.png" alt="" style="display: block; margin: auto;" />
+  <img src="https://user-images.githubusercontent.com/91704169/265226827-55cdef93-80a8-48c3-98ea-644c8239f3f1.png" alt="" style="display: block; margin: auto;" />
 </p>
 
 # Fazendo backup de dados </p>
