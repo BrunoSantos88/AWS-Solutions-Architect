@@ -18,7 +18,9 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 - Cloud Quest Partitione 
 - Cloud Quest Archtectiing solution
 
-  - Fundamentos de computação em nuvem	 </p>
+# LABS 
+
+- Fundamentos de computação em nuvem	 </p>
 O portal da cidade precisa migrar a página de previsão do tamanho das ondas da praia para a AWS para melhorar a confiabilidade.	Articular as características da plataforma de computação em nuvem AWS. </p>
 Descreva os principais benefícios do uso de produtos e serviços da AWS.
 Compare e compare os serviços de nuvem AWS com a infraestrutura local.  
