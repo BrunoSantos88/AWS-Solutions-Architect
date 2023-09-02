@@ -126,6 +126,8 @@ Descrever os recursos e benefícios do Amazon DynamoDB.
 Interaja com os elementos e atributos de um banco de dados Amazon DynamoDB.
 Configure um banco de dados NoSQL com Amazon DynamoDB.
 
+Link video tirar duvida: https://www.youtube.com/watch?v=KDoluzkvw2Q&t=8s
+
 # Sistemas de arquivos na nuvem </p>
 
 Ajude a agência de modelos de animais de estimação da cidade a compartilhar dados de arquivos sem provisionar ou gerenciar armazenamento.	Resuma as diferentes opções de armazenamento disponíveis na AWS.
