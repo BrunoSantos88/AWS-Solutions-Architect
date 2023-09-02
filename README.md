@@ -129,11 +129,14 @@ Configure um banco de dados NoSQL com Amazon DynamoDB.
 Link video tirar duvida: https://www.youtube.com/watch?v=KDoluzkvw2Q&t=8s
 
 # Sistemas de arquivos na nuvem </p>
+- File System EFS
 
 Ajude a agência de modelos de animais de estimação da cidade a compartilhar dados de arquivos sem provisionar ou gerenciar armazenamento.	Resuma as diferentes opções de armazenamento disponíveis na AWS.
 Resuma os principais recursos e benefícios do Amazon EFS.
 Identifique casos de uso de negócios para o Amazon EFS.
 Configure endpoints do Amazon EFS para acessar o armazenamento centralizado.
+
+Video Tirar duvida: https://www.youtube.com/watch?v=g9rH_J6XcFM
 
 # Serviços de contêiner </p>
 
