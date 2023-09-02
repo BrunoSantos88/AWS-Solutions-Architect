@@ -56,6 +56,11 @@ Descrever como o API Gateway utiliza APIs REST
 Descrever os usos e benefícios do API Gateway
 Compreender os principais conceitos de microsserviços
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91704169/265229695-49ff4d35-2b88-4cad-8080-47e79a1f2ca8.png" alt="" style="display: block; margin: auto;" />
+</p>
+
+
 #Conceitos de rede	 </p>
 
 Ajude o banco a configurar um ambiente de rede seguro que permita a comunicação entre os recursos e a Internet.	Defina os principais recursos de VPCs, sub-redes, gateways de Internet e tabelas de rotas.
