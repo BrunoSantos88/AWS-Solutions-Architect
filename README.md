@@ -132,6 +132,10 @@ Determine como criar uma imagem Docker para um aplicativo.
 Demonstre como implantar um segundo aplicativo usando o AWS Fargate.
 Determine como criar um repositório do Amazon ECR e envie uma imagem para ele.
 
+<p align="center">
+  <img src="utils/img/aws.png" alt="" style="display: block; margin: auto;" />
+</p>
+
 # Fazendo backup de dados </p>
 
 Ajude a empresa Pup-World a criar planos de backup para diferentes aplicações.	Entenda o objetivo do tempo de recuperação versus o objetivo do ponto de recuperação.
