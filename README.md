@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="utils/img/aws.png" alt="" style="display: block; margin: auto;" />
-</p>
-
 # AWS-Solutions-Architect
 Guia e simulados -- Rocket Partner e Udemy e Skillbuider
-
-
 
 Simulado benchprep.com 20 perguntas.
 Link: https://awscertificationpractice.benchprep.com/app/aws-certified-solutions-architect-associate-official-practice-question-set-saa-c03#exams/details/165791
