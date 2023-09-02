@@ -14,20 +14,18 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 -Procurar badge AWS Learning: Architecting 80% necessario passar </p> 
 -Procurar badge AWS Learning: Cloud Essentials 80% necessario passar </p>
 
-# Cloud Quest
+# Cloud Quest Labs Badges
 - Cloud Quest Partitione 
 - Cloud Quest Archtectiing solution
 
-# LABS 
-
-- Fundamentos de computação em nuvem	 </p>
+# Fundamentos de computação em nuvem	 </p>
 
 O portal da cidade precisa migrar a página de previsão do tamanho das ondas da praia para a AWS para melhorar a confiabilidade.	Articular as características da plataforma de computação em nuvem AWS. </p>
 Descreva os principais benefícios do uso de produtos e serviços da AWS.
 Compare e compare os serviços de nuvem AWS com a infraestrutura local.  
 Implemente a hospedagem de uma página da web estática usando o Amazon S3.  
 
-- Primeiros passos na nuvem	</p>
+# Primeiros passos na nuvem	</p>
 
 O sistema de estabilização da ilha está a falhar e necessita de maior fiabilidade e disponibilidade para os seus módulos computacionais.	Resuma os benefícios da infraestrutura AWS. 
 Descrever regiões e zonas de disponibilidade da AWS. 
