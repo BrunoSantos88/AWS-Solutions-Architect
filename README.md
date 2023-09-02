@@ -21,58 +21,58 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 # LABS 
 
 - Fundamentos de computação em nuvem	
-O portal da cidade precisa migrar a página de previsão do tamanho das ondas da praia para a AWS para melhorar a confiabilidade.	Articular as características da plataforma de computação em nuvem AWS. </p>
+- O portal da cidade precisa migrar a página de previsão do tamanho das ondas da praia para a AWS para melhorar a confiabilidade.	Articular as características da plataforma de computação em nuvem AWS. </p>
 Descreva os principais benefícios do uso de produtos e serviços da AWS.
 Compare e compare os serviços de nuvem AWS com a infraestrutura local.  
 Implemente a hospedagem de uma página da web estática usando o Amazon S3.  
 
 - Primeiros passos na nuvem	
-O sistema de estabilização da ilha está a falhar e necessita de maior fiabilidade e disponibilidade para os seus módulos computacionais.	Resuma os benefícios da infraestrutura AWS. 
+- O sistema de estabilização da ilha está a falhar e necessita de maior fiabilidade e disponibilidade para os seus módulos computacionais.	Resuma os benefícios da infraestrutura AWS. 
 Descrever regiões e zonas de disponibilidade da AWS. 
 Implante instâncias do Amazon EC2 em várias zonas de disponibilidade.  
 
 - Fundações sem servidor
-Ajude o Departamento de TI do Parque de Diversões a executar código sem provisionar um servidor.	Descrever os princípios da computação sem servidor
+- Ajude o Departamento de TI do Parque de Diversões a executar código sem provisionar um servidor.	Descrever os princípios da computação sem servidor
 Descrever o AWS Lambda e detalhar seus usos e benefícios
 Criar e implantar uma função do AWS Lambda
 
 - Soluções de computação
-O servidor escolar que executa a solução de agendamento precisa de mais memória. Auxiliar no dimensionamento vertical da instância do Amazon EC2.	Descrever famílias de instâncias e tipos de instâncias do Amazon EC2.
+- O servidor escolar que executa a solução de agendamento precisa de mais memória. Auxiliar no dimensionamento vertical da instância do Amazon EC2.	Descrever famílias de instâncias e tipos de instâncias do Amazon EC2.
 Descreva a escala horizontal e vertical.
 Reconheça opções de conexão com instâncias do Amazon EC2.
 
 - Implantando APIs RESTful
-Ajude a equipe de TI do parque de diversões a criar APIs para o aplicativo de compartilhamento de viagens.	Criar e implantar uma API REST que se integre ao AWS Lambda
+- Ajude a equipe de TI do parque de diversões a criar APIs para o aplicativo de compartilhamento de viagens.	Criar e implantar uma API REST que se integre ao AWS Lambda
 Explicar o link entre o Amazon API Gateway e o AWS Lambda
 Descrever como o API Gateway utiliza APIs REST
 Descrever os usos e benefícios do API Gateway
 Compreender os principais conceitos de microsserviços
 
 - Conceitos de rede	
-Ajude o banco a configurar um ambiente de rede seguro que permita a comunicação entre os recursos e a Internet.	Defina os principais recursos de VPCs, sub-redes, gateways de Internet e tabelas de rotas.
+- Ajude o banco a configurar um ambiente de rede seguro que permita a comunicação entre os recursos e a Internet.	Defina os principais recursos de VPCs, sub-redes, gateways de Internet e tabelas de rotas.
 Descreva os benefícios de usar Amazon VPCs.
 Declare os fundamentos da notação de bloco CIDR e do endereçamento IP.
 Explique como o tráfego da VPC é roteado e protegido usando gateways, listas de controle de acesso à rede e grupos de segurança.
 
 - DNS 
-O jornal local gostaria que seu servidor interno de notícias fosse acessado através de um nome de domínio em vez de um endereço IP.	Crie nomes de domínio hospedados locais para seus servidores Amazon VPC usando o Route 53.
+- O jornal local gostaria que seu servidor interno de notícias fosse acessado através de um nome de domínio em vez de um endereço IP.	Crie nomes de domínio hospedados locais para seus servidores Amazon VPC usando o Route 53.
 Anexe registros A ao seu nome de domínio local.
 Anexe um registro CNAME ao seu nome de domínio local.
 
 - Bancos de dados na prática
-Melhore as operações, o desempenho e a disponibilidade do banco de dados relacional da seguradora.	Revise os recursos, benefícios e tipos de banco de dados disponíveis no Amazon RDS.
+- Melhore as operações, o desempenho e a disponibilidade do banco de dados relacional da seguradora.	Revise os recursos, benefícios e tipos de banco de dados disponíveis no Amazon RDS.
 Descrever a escalabilidade vertical e horizontal no Amazon RDS.
 Use réplicas de leitura do Amazon RDS para aumentar o desempenho do banco de dados.
 Implemente implantações multi-AZ do Amazon RDS para aumentar a disponibilidade.
 
 - API com banco de dados
-Ajude a equipe de TI do Amusement Park a adicionar um armazenamento de dados NoSQL à sua solução.	Descrever os recursos e benefícios do Amazon DynamoDB
+- Ajude a equipe de TI do Amusement Park a adicionar um armazenamento de dados NoSQL à sua solução.	Descrever os recursos e benefícios do Amazon DynamoDB
 Resumir os principais componentes de uma tabela do DynamoDB
 Criar uma tabela no Amazon DynamoDB
 Entender como criar, atualizar e recuperar itens do DynamoDB
 
 - Conceitos Básicos de Segurança
-Ajude a melhorar a segurança na bolsa de valores da cidade, garantindo que os engenheiros de suporte só possam realizar ações autorizadas.	Descreva o processo de criação e as diferenças entre usuários, funções e grupos do AWS IAM.
+- Ajude a melhorar a segurança na bolsa de valores da cidade, garantindo que os engenheiros de suporte só possam realizar ações autorizadas.	Descreva o processo de criação e as diferenças entre usuários, funções e grupos do AWS IAM.
 Revise a estrutura e os componentes das políticas do AWS IAM.
 Resuma o modelo de responsabilidade compartilhada da AWS e os programas de conformidade.
 
