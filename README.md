@@ -92,6 +92,8 @@ Resumir os principais componentes de uma tabela do DynamoDB
 Criar uma tabela no Amazon DynamoDB
 Entender como criar, atualizar e recuperar itens do DynamoDB
 
+Link Video: https://www.youtube.com/watch?v=TZ5CQopSoCM
+
 # Conceitos Básicos de Segurança </p>
 
 Ajude a melhorar a segurança na bolsa de valores da cidade, garantindo que os engenheiros de suporte só possam realizar ações autorizadas.	Descreva o processo de criação e as diferenças entre usuários, funções e grupos do AWS IAM.
