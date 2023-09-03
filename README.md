@@ -94,6 +94,11 @@ Entender como criar, atualizar e recuperar itens do DynamoDB
 
 Link Video: https://www.youtube.com/watch?v=TZ5CQopSoCM
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91704169/265229695-49ff4d35-2b88-4cad-8080-47e79a1f2ca8.png" alt="" style="display: block; margin: auto;" />
+</p>
+
+
 # Conceitos Básicos de Segurança </p>
 
 Ajude a melhorar a segurança na bolsa de valores da cidade, garantindo que os engenheiros de suporte só possam realizar ações autorizadas.	Descreva o processo de criação e as diferenças entre usuários, funções e grupos do AWS IAM.
