@@ -20,7 +20,7 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 
 <p align="middle">
   <a href="https://www.credly.com/badges/8c590962-04a7-4a04-9777-a513bf617788/public_url"><img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
-  <a href=" https://www.credly.com/badges/93259c26-48db-4df0-8cd3-21dab587f1a0/public_url"><img src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" ></a>
+  <a href=" https://www.credly.com/badges/93259c26-48db-4df0-8cd3-21dab587f1a0/public_url"><img src="https://user-images.githubusercontent.com/91704169/265303407-15c77066-bcd7-4b44-81df-5df51cb900e6.png" ></a>
 </p>
 
 # Fundamentos de computação em nuvem	 </p>
