@@ -20,7 +20,7 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 
 <p align="middle">
   <a href="https://www.credly.com/badges/8c590962-04a7-4a04-9777-a513bf617788/public_url"><img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
-  <a href=" https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer"><img src="https://user-images.githubusercontent.com/91704169/265303754-b7685ca6-021b-409f-871c-e0b7a35d633b.png" ></a>
+  <a href=" https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer"><img src="https://user-images.githubusercontent.com/size/340x340/91704169/265303754-b7685ca6-021b-409f-871c-e0b7a35d633b.png" ></a>
 </p>
 
 # Fundamentos de computação em nuvem	 </p>
