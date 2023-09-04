@@ -125,6 +125,11 @@ Explique as etapas para estabelecer uma conexão de peering de VPC.
 Crie uma conexão de peering entre duas Amazon VPCs.
 Estabeleça uma conexão de peering entre Amazon VPCs usando uma sub-rede específica.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91704169/265533646-dac203fe-d86f-4256-aaa6-b22250b02f58.png" alt="" style="display: block; margin: auto;" />
+</p>
+
+
 
 # Primeiro banco de dados NoSQL	 </p>
 
