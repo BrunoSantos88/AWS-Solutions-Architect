@@ -201,6 +201,7 @@ Desacoplar um aplicativo usando o Amazon SNS e o Amazon SQS
 Gerar mensagens distribuídas de um tópico do Amazon SNS para várias filas do Amazon SQS
 
 # Analisando o tráfego de rede </p>
+- Analyzing Network TRaffic
 - VPC FLOW LOGS
 
 Ajude a Intelligent Crops a analisar seus registros de rede para encontrar possíveis falhas de segurança.	Monitore o tráfego de VPC usando registros de fluxo de VPC
