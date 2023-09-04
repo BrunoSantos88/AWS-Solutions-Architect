@@ -212,6 +212,8 @@ Aceite/rejeite o tráfego de rede usando ACLs de rede
   <img src="https://user-images.githubusercontent.com/91704169/265540047-d4198805-f82b-4fd5-88c3-1fb88c54c5a2.png" alt="" style="display: block; margin: auto;" />
 </p>
 
+- Video: https://www.youtube.com/watch?v=4OnAefa20Vo
+
 # Economia da Nuvem </p>
 
 A loja de pranchas de surf da cidade precisa de uma estimativa de custo de uma arquitetura com utilização variável de recursos.	Descrever como as estimativas de preços são obtidas.
