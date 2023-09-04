@@ -18,7 +18,6 @@ Link: https://explore.skillbuilder.aws/offline/index.html </p>
 - AWS Cloud Quest Certificações badge de gameficação da AWS
 - Lista dos Labs
 
-<p align="middle">
   <img align="left" alt="Rafa-Js" height="400" width="340" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" />
   <img align="right" alt="Rafa-Js" height="400" width="340" src="https://user-images.githubusercontent.com/91704169/265303754-b7685ca6-021b-409f-871c-e0b7a35d633b.png" />
   
