@@ -73,10 +73,15 @@ Explique como o tráfego da VPC é roteado e protegido usando gateways, listas d
 </p>
 
 # DNS </p>
+- ROUTE 53
 
 O jornal local gostaria que seu servidor interno de notícias fosse acessado através de um nome de domínio em vez de um endereço IP.	Crie nomes de domínio hospedados locais para seus servidores Amazon VPC usando o Route 53.
 Anexe registros A ao seu nome de domínio local.
 Anexe um registro CNAME ao seu nome de domínio local.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91704169/265544001-996d2b47-9683-47ba-b780-981ccbec838c.png" alt="" style="display: block; margin: auto;" />
+</p>
 
 # Bancos de dados na prática </p>
 
