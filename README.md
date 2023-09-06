@@ -113,14 +113,14 @@ Resuma o modelo de responsabilidade compartilhada da AWS e os programas de confo
 # Redes de distribuição de conteúdo	  </p>
 - Cloud FRONT
 
+Entenda o valor da rede de entrega de conteúdo do Amazon CloudFront
+Configure o Amazon CloudFront para instância do Amazon EC2
+Configure o Amazon CloudFront para site estático do Amazon S3
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91704169/265545952-052cb31e-150b-467b-b951-7a9f8354d855.png" alt="" style="display: block; margin: auto;" />
 </p>
 
-
-Entenda o valor da rede de entrega de conteúdo do Amazon CloudFront
-Configure o Amazon CloudFront para instância do Amazon EC2
-Configure o Amazon CloudFront para site estático do Amazon S3
 
 # Métodos de ingestão de dados
 Ajude a empresa de entrega de pacotes a acelerar a ingestão e transformação de dados.	Crie um fluxo de entrega do Amazon Kinesis Data Firehose
