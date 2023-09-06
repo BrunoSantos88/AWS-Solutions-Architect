@@ -152,6 +152,7 @@ Configure um banco de dados NoSQL com Amazon DynamoDB.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91704169/265862913-c59dc72a-6166-4d78-aa5c-c46b7aace6f3.png" alt="" style="display: block; margin: auto;" />
 </p>
+
 Link video tirar duvida: https://www.youtube.com/watch?v=KDoluzkvw2Q&t=8s
 
 # Sistemas de arquivos na nuvem </p>
